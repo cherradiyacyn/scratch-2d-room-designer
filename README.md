@@ -1,6 +1,6 @@
 # 🧱 Scratch 2D Room Designer
 
-A simple Excel-based level designer that helps you build 2D platformer layouts for Scratch games. Design rooms on a grid visually, then export clean coordinate data directly into Scratch.
+A simple Excel-based level designer that helps you build layouts for 2D Scratch games. Design rooms on a grid visually, then export clean coordinate data directly into Scratch.
 
 ---
 
@@ -8,7 +8,7 @@ A simple Excel-based level designer that helps you build 2D platformer layouts f
 
 - Visual layout editor in Excel  
 - Exports clean brick coordinates for Scratch  
-- Grid-based structure, ideal for platformer games  
+- Grid-based structure, ideal for platformer games
 - Easy to integrate into your Scratch clone system  
 
 ---
